@@ -22,7 +22,6 @@ I didn't have the need for it yet, but I can design a light color scheme too if 
 ## Default
 ### "Normal" accent color -> how it might look realistically, pastel colors prefered
 ![Screenshot_20240124_105019](https://github.com/gluckgluckwasserbauch/adflatus-kde/assets/99470494/58f41c7d-ebdc-4fa8-9982-1e351c22025f)
-![Screenshot_20240124_112120](https://github.com/gluckgluckwasserbauch/adflatus-kde/assets/99470494/9c1480de-d7ec-452a-a03e-49e31d16f1b5)
 ### Showcase with extreme color
 ![Screenshot_20240124_104740](https://github.com/gluckgluckwasserbauch/adflatus-kde/assets/99470494/e662fd13-bdb5-4d6e-b12d-5ec1714762a8)
 ## High contrast
