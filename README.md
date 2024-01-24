@@ -6,6 +6,8 @@ I use it as "boring" default color scheme for my KDE setup.
 When I developed Adflatus, I wanted it to function similarily to how "Material You" behaves.
 It's supposed to be good looking under all conditions, no matter which dominant color you prefer. It especially shines with the "Choose accent color based on wallpaper"-function.  
 
+Link in KDE-Store: https://store.kde.org/p/2124486
+
 ---
 
 # Styles
