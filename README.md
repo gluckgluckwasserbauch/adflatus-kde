@@ -38,5 +38,5 @@ I made two variants for now. One poster child, one for accessibility.
 
 
 # Further ressources
-## Wallpapers used: [My sky photo repository](https://github.com/gluckgluckwasserbauch/lucy-in-the-sky-with-pixels)
-## Application style: [Lightly Plasma](https://github.com/doncsugar/lightly-plasma)
+Wallpapers used: [My sky photo repository](https://github.com/gluckgluckwasserbauch/lucy-in-the-sky-with-pixels)
+Application style: [Lightly Plasma](https://github.com/doncsugar/lightly-plasma)
