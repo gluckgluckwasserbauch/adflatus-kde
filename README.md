@@ -28,14 +28,14 @@ I made two variants for now. One poster child, one for accessibility.
 
 # Preview images
 ## Default
-### "Normal" accent color -> how it might look realistically, pastel colors prefered
+"Normal" accent color -> how it might look realistically, pastel colors prefered
 ![Screenshot_20240124_105019](https://github.com/gluckgluckwasserbauch/adflatus-kde/assets/99470494/58f41c7d-ebdc-4fa8-9982-1e351c22025f)
-### Showcase with extreme color
+Showcase with extreme color:
 ![Screenshot_20240124_104740](https://github.com/gluckgluckwasserbauch/adflatus-kde/assets/99470494/e662fd13-bdb5-4d6e-b12d-5ec1714762a8)
 ## High contrast
-### Realistic
+Realistic (pastel)
 ![Screenshot_20240124_104048](https://github.com/gluckgluckwasserbauch/adflatus-kde/assets/99470494/c1335479-900d-4109-a2db-ef365f282956)
-### Extreme
+Extreme
 ![Screenshot_20240124_104842](https://github.com/gluckgluckwasserbauch/adflatus-kde/assets/99470494/f6fc2065-eeb8-4c7b-aa1c-e572920e9653)
 
 ---
