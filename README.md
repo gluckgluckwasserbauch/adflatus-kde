@@ -39,6 +39,8 @@ Extreme
 ![Screenshot_20240124_104842](https://github.com/gluckgluckwasserbauch/adflatus-kde/assets/99470494/f6fc2065-eeb8-4c7b-aa1c-e572920e9653)
 
 ## Light
+![Screenshot_20240320_084826](https://github.com/gluckgluckwasserbauch/adflatus-kde/assets/99470494/3e4101a6-de99-4916-8071-ef72e4012145)
+![Screenshot_20240320_085903](https://github.com/gluckgluckwasserbauch/adflatus-kde/assets/99470494/d6d84466-3cfd-49c8-9cf0-4cb57025428b)
 
 
 
