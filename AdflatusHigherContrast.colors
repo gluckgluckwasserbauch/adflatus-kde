@@ -104,7 +104,7 @@ ForegroundVisited=102,98,110
 
 [Colors:View]
 BackgroundAlternate=43,48,51
-BackgroundNormal=43,48,51
+BackgroundNormal=30,35,38
 DecorationFocus=138,132,148
 DecorationHover=138,132,148
 ForegroundActive=61,174,233
@@ -131,7 +131,7 @@ ForegroundPositive=39,174,96
 ForegroundVisited=102,98,110
 
 [General]
-ColorScheme=BreezeDark
+ColorScheme=AdflatusHigherContrast
 Name=Adflatus Higher Contrast
 TintFactor=0.15
 TitlebarIsAccentColored=false

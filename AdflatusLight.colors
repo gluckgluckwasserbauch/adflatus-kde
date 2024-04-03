@@ -131,7 +131,7 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [General]
-ColorScheme=BreezeLight
+ColorScheme=AdflatusLight
 Name=Adflatus Light
 TintFactor=0.14
 TitlebarIsAccentColored=false
